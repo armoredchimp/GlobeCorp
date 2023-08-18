@@ -1,0 +1,14 @@
+{
+  "icons": [
+    {
+      "src": "globe_corp_logo_192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "globe_corp_logo_512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
